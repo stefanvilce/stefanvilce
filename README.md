@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stefanvilce
 - 👀 I’m interested in Java, Javascript, PHP, CSS3, React, VueJS, Nuxtjs
 - 🌱 I’m currently learning VueJS, NuxtJS, DS3js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me stefan@irisoft.com.ro
 
 <!---
